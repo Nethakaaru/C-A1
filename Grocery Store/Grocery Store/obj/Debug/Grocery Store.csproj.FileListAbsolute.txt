@@ -1,0 +1,6 @@
+c:\users\sebastian\documents\visual studio 2015\Projects\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe.config
+c:\users\sebastian\documents\visual studio 2015\Projects\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\Grocery Store\Grocery Store\bin\Debug\Grocery Store.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2015\Projects\Grocery Store\Grocery Store\obj\Debug\Grocery Store.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\Grocery Store\Grocery Store\obj\Debug\Grocery Store.pdb
